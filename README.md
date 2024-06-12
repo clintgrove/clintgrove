@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @clintgrove
-- 👀 I’m interested in Data Engineering and Coffee!
-- 💞️ I’m working on Synapse, Databricks and DevOps
+- 👀 Tech enthusiast, passionate about customer success and love new challenges!
+- 💞️ I’m working on Databricks, Synapse, Fabric, SQL, ADF and DevOps
 
